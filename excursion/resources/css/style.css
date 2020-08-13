@@ -10,7 +10,23 @@ h1 {
   font-size: 50px; 
 }
 
+h2 {
+  font-weight: 300; 
+  font-size: 42px; 
+  color: #ffffff;
+}
+p {
+  font-size: 21px; 
+  color: grey;
+}
+
 a {
   color: Aquamarine; 
   font-sizse: 16px; 
+}
+
+.copyright {
+  text-align: right; 
+  color: grey; 
+  
 }
